@@ -20,6 +20,9 @@
 <br>
 <br>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FILoveGameCoding%2FU.O.S-Mobile.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FILoveGameCoding%2FU.O.S-Mobile?ref=badge_large)
+
 ## 프로젝트 설명
 <p><b>U.O.S</b>는 언택트 기술을 적용하여 터치 방식의 키오스크를 대신해 Mobile 환경에서 주문을 할 수 있도록 도와주는 <strong>Untact Order Service(U.O.S)</strong>입니다.  U.O.S는 
 업종에 구애받지 않는 스마트폰의 키오스크화를 목적으로 두고 있습니다. 음식점, 영화관, 공연장, PC방 등의 판매자가 전용 프로그램을 통해 상품을 등록할 수 있으며, 소비자는 QR코드를 통해 매장 내에서 구매 
@@ -31,6 +34,7 @@
 
 ### Acitivty Configuration
 ![액티비티 구조](/image/Activity_configuration.PNG)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FILoveGameCoding%2FU.O.S-Mobile.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FILoveGameCoding%2FU.O.S-Mobile?ref=badge_shield)
 
 ### Adapter Configuration
 ![어댑터 구조](/image/Adapter_configuration.PNG)
